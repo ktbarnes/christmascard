@@ -1,0 +1,35 @@
+@import url(http://fonts.googleapis.com/css?family=Dancing+Script);
+
+body {
+  background: Snow;
+}
+
+section {
+  background: url(https://codecademy-content.s3.amazonaws.com/courses/web-beginner-en-9xjis/images/winter.jpg);
+  width: 700px;
+  height: 500px;
+  color: white;
+  font-family: Dancing Script;
+  margin: auto;
+}
+
+h1 {
+  font-size: 60px;
+  margin: 0px;
+}
+
+h2 {
+  font-size: 30px;
+  margin: 0px;
+  margin-top: 30px;
+}
+
+.greeting {
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+img {
+  padding-top: 70px;
+  padding-left: 140px;
+}
